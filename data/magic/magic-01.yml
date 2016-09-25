@@ -1,0 +1,50 @@
+---
+
+ Acid Splash:
+   casting_time: 1 action
+   components: V, S
+   description: "You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage. This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
+   duration: Instantaneous
+   level: 0
+   range: "60 feet"
+   school: Conjuration
+
+ Brand of the Arcane:
+   casting_time: Instantaneous
+   duration: Unlimited
+   components: V, S, M (Brand of the Arcane on the caster’s skin)
+   level: 0
+   range: Touch
+   school: Transmutation
+   ritual: false
+   description: >
+     You brand a willing creature with the symbol of the Arcane Brotherhood. Once
+     branded, the caster may be able to scry the exact location of the branded creature.
+     The branded creature may also be able to scry the exact location of the caster
+     if the caster is willing. If the caster is unwilling, the branded creature may still
+     scry the location on a successful Wisdom ability check equal to the caster’s
+     Spell Save DC.
+
+ Blood Contract:
+   casting_time: 1 hour
+   duration: Unlimited
+   components: V, S, M (drops of blood, paper and a quill)
+   level: 9
+   range: Touch
+   school: Enchantment
+   ritual: true
+   description: >
+     You magically bind a contract written in the blood of all entities involved in
+     its terms. Every item in the contract must be precisely written. If a term can be
+     interpreted multiple ways, then the Blood Contract will apply to all of the ways
+     a term may be interpreted by the DM.
+
+     If a term or a rule defined in the contract is broken by an entity whose blood is
+     bound and no failure condition is defined explicitly, the entity must make a
+     Wisdom saving throw once per day while the rule remains broken. On a failure,
+     that entity takes 20d6 psychic damage, or half that damage otherwise.
+
+
+
+
+

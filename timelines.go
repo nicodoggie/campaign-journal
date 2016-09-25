@@ -1,10 +1,19 @@
 package main
 
 import (
+	"strings"
 	"fmt"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
 )
+
+func ParseDate (date string, calendar CalendarData) {
+	split := strings.Split(date, " ")
+
+	for i := 0; i < len(split); i++ {
+		fmt.Printf("%+v\n", split[i])
+	}
+}
 
 type Month struct {
 	Name    string
@@ -38,12 +47,11 @@ type Events struct {
 func main() {
 	data, _ := ioutil.ReadFile("data/timeline-01.yml")
 	calData, _ := ioutil.ReadFile("data/calendar-harpatos.yml")
-	fmt.Print(string(calData))
 	var events []Event
 	var calendar CalendarData
 
 	yaml.Unmarshal([]byte(data), &events)
 	yaml.Unmarshal([]byte(calData), &calendar)
-	fmt.Printf("%+v\n", events)
-	fmt.Printf("%+v\n", calendar)
+
+	ParseDate("1 Alturiak 1489 DR", calendar)
 }

@@ -1,95 +1,36 @@
 ---
 
-- event: Edith and Hariq arrive at Boareskyr Bridge
-  date: 27 Ches 1489 DR
-  description: >
-    Travel along the High Road had been slowed due to some damage to the famous
-    [Boareskyr Bridge](http://forgottenrealms.wikia.com/wiki/Boareskyr_Bridge).\n\n
+ - event: Harpers fail to retake the Green Dragon Mask in Kryptgarden Forest
+   date: 24 Ches 1489 DR
+   description: >
+     The Harpers have received intel that the ancient green dragon Claugiyliamatar
+     was in possession of the Green Dragon Mask, and that the Cult of the Dragon
+     were on their way to retrieve the same. This led to the death of many Harpers
+     as they had clashed with Dragon Cultist forces in the Kryptgarden Forest.
 
-    A huge typhoon and the resulting overflow of the
-    [Winding Water](http://forgottenrealms.wikia.com/wiki/Winding_Water) had
-    collapsed a large section of the black granite bridge, and thus had been
-    rendered impassable to horses, much less carriages.\n\n
+     The mission ended in an utter disaster, and the mask had been taken by the
+     Cult of the Dragon leader and green dragon Wyrmspeaker, Neronvain.
 
-    The caravan that Edith Tarnalis, a cleric of Chauntea, and Hariq Ilqalba,
-    a nobleman-mage from the deserts of
-    [Calimshan](http://forgottenrealms.wikia.com/wiki/Calimshan) had travelled with
-    was forced to take refuge in one of the many roadside "inns" in the tent-city
-    that surrounds the bridge.\n\n
+ - event: The Cult of the Dragon Attacks the Greenfields
+   date: 27 Ches 1489 DR
+   description: >
+     The Cult of the Dragon, in their first public foray since being taken over
+     by the Calishite, Severin Silrajin. As one of the pillars
 
-- event: Kidnapping at the Boareskyr Bridge
-  date: 27 Ches 1489 DR
-  description: >
-    Some children in the tent-city that surrounds Boareskyr Bridge had disappeared.
-    It seems that kidnapped children is, sadly, not a rare event in the area, due
-    to a very active slave market in the Serpent Hills run by the Yuan-Ti.\n\n
+ - event: Magna Mistwinter arrives at Greenest
+   date: 27 Ches 1489 DR
+   description: >
+     Due to a threat to her life made by some cultists of the Dragon in an inn called
+     the Snugly Duckling, Magna Mistwinter, the last of her clan of dragon-slayers,
+     made her way to Greenest to lie low for a while. Despite her intentions however,
+     she was thrust in the middle of a raid by the Cult of the Dragon on her
+     destination. She arrived as Greenest was enveloped in flames.
 
-    Edith and Hariq had teamed-up to take back these children away from the slavers,
-    and had hurriedly followed their trail. What they found, however, was smashed
-    carriage and some footprints that seems to indicate that the smugglers and the
-    children have fled into the woods that led to the
-    [High Moor](http://forgottenrealms.wikia.com/wiki/High_Moor).\n\n
+ - event: Siege of Greenest Keep
+   date: 28 Ches 1489 DR
 
-    The team had found themselved chased by a Banshee until they reached a small
-    cabin. This cabin, apparently, had also been where the smugglers and the children
-    had taken refuge from the same Banshee, who, for some reason, cannot enter.\n\n
+ - event: Raiding Camp
+   date: 29 Ches 1489 DR
 
-    Edith had discovered that the cabin was protected magically, by a consecrated
-    dagger dedicated to the dwarven god
-    [Haela Brightaxe](http://forgottenrealms.wikia.com/wiki/Haela_Brightaxe),
-    the Luckmaiden. Hariq, on the other hand, discovered a trapdoor hidden under
-    some rubble.\n\n
-
-    Edith had, with Hariq's help, sneaked the children into the trapdoor as she
-    removed the consecrated dagger from the alter. This had removed the protection
-    of the cabin, and in effect, forced, and had successfully navigated, a battle
-    between them, the smugglers, and the banshee.\n\n
-
-    As the team began taking stock of the children they had rescued, however, it
-    seems two children have disappeared. These two, one of the children had seen,
-    had wanted to explore that lay beneath the trapdoor.\n\n
-
-    Edith had requested that Hariq might return these children to the tent-city
-    of Boareskyr, and that she would take the two children back herself. Unfortunately
-    however, Edith had soon learned that the two children were taken by some strange
-    hooded figures in black robes into an ancient elven temple.\n\n
-
-    As Edith had followed them, she had found that these figures were followers of the
-    dark goddess Shar. They had performed a strange ritual that involved opening
-    the chest cavities of the children and placing orbs into them.\n\n
-
-- event: Harpers fail to retake the Green Dragon Mask in Kryptgarden Forest
-  date: 24 Ches 1489 DR
-  description: >
-    The Harpers have received intel that the ancient green dragon Claugiyliamatar
-    was in possession of the Green Dragon Mask, and that the Cult of the Dragon
-    were on their way to retrieve the same. This led to the death of many Harpers
-    as they had clashed with Dragon Cultist forces in the Kryptgarden Forest.
-
-    The mission ended in an utter disaster, and the mask had been taken by the
-    Cult of the Dragon leader and green dragon Wyrmspeaker, Neronvain.
-
-- event: The Cult of the Dragon Attacks the Greenfields
-  date: 27 Ches 1489 DR
-  description: >
-    The Cult of the Dragon, in their first public foray since being taken over
-    by the Calishite, Severin Silrajin. As one of the pillars
-
-- event: Magna Mistwinter arrives at Greenest
-  date: 27 Ches 1489 DR
-  description: >
-    Due to a threat to her life made by some cultists of the Dragon in an inn called
-    the Snugly Duckling, Magna Mistwinter, the last of her clan of dragon-slayers,
-    made her way to Greenest to lie low for a while. Despite her intentions however,
-    she was thrust in the middle of a raid by the Cult of the Dragon on her
-    destination. She arrived as Greenest was enveloped in flames.
-
-- event: Edith and Hariq Arrive at Greenest
-  date: 2 Tarsahk 1489 DR
-  description: >
-    The caravan that Edith and Hariq had travelled with had finally arrived at
-    Greenest, where Edith had been required to travel to by the Abbot of the
-    Goldenfields. They had found that Greenest, as well as most villages in the
-    Greenfields had been ravaged. A group called the Cult of the Dragon had sacked
-    the town and the surrounding villages.\n\n
-
+ - event: Magna rescues Leosin Erlanthar
+   date: 30 Ches 1489 DR

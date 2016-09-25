@@ -1,0 +1,165 @@
+---
+
+ Vial of Nymph Essence:
+   attunement: false
+   effect: >
+     After drinking a vial of Nymph Essence, the creature must make a **DC 15 wisdom
+     saving throw**. On a fail, the creature becomes sexually aroused for d12 hours. For
+     the duration of arousal, the creature is compelled to provide erotic sexual
+     pleasure to a willing sentient creature that it can see.\n\n
+
+     At the beginning of every hour for the duration of the arousal, the creature may
+     make a **DC 15 wisdom saving throw**. On a save, the affected creature is still
+     aroused, but is not compelled to provide pleasure for that hour. On three
+     successive saves, the effect of the Nymph Essence ends.\n\n
+
+     When the effect of the Nymph Essence ends, the affected creature, and one willing
+     creature it has sex with gains the benefits of a long rest, and loses one level of
+     exhaustion.
+
+     A creature with no sexual organs will not be affected.
+
+ Vial of Succubus/Incubus Essence:
+   attunement: false
+   effect: >
+     After drinking a vial of Succubus/Incubus Essence, the creature must make a **DC 15
+     wisdom saving throw**. On a fail, the creature becomes sexually aroused for d6
+     hours. For the duration the creature also is compelled to provide violent,
+     sado-masochistic sexual pleasure to a willing or unwilling sentient creature that
+     it can see.\n\n
+
+     If the affected creature is the master of the succubus/incubus that had provided
+     the essence, the creature can choose to succeed the saving throw instead.
+
+     At the beginning of every hour for the duration of the arousal, the creature may
+     make a **DC 15 wisdom saving throw**. On a save, the sexual arousal effect
+     ends.\n\n
+
+     When the effect of the Succubus/Incubus Essence ends, the affected creature, and
+     the creature it has sex with gains one level of exhaustion.
+
+     If a vial of Succubus Essence is taken, taking a vial of Incubus Essence, or vice
+     versa, the effects of the essences are nullified.
+
+    A creature with no sexual organs will not be affected.
+
+ Undergarment of Darkness:
+   attunement: true
+   effect: >
+     Shields the wearer from the rays of the sun as if enveloped in darkness.
+     The garment must be worn correctly for it to take effect.
+
+ Orb of Energy (Mythallar):
+   attunement: true
+   effect: >
+     Once a creature is attuned to an Orb of Energy, that creature becomes a conduit
+     in which the orb may be charged with raw magic. Once per long rest, the creature
+     may be able to store one spell slot equal to its highest spell level.
+
+     If, upon attunement, the Orb of Energy is already charged with a spell slot higher
+     than the creature may cast, the user must make a Wisdom (Arcana) check with a DC
+     equal to 10 + the spell slot's level. Once attuned, the user must make a Wisdom
+     (Arcana) check with a DC equl to 10 + the spell's level.
+
+     If the orb of energy is a Mythallar, it may be charged every day for 30 days with
+     9th level spell slots or higher, the orb glows a radiant white light and becomes
+     too powerful to hold by hand since it becomes capable of tapping raw magical
+     energy directly from the Weave. If a creature touches an active Mythallar, they
+     suffer the same effects of a Disintegrate spell.
+
+     Once a Mythallar is activated, it may levitate any inanimate object it is
+     attached to with an area within 1 mile in diameter.
+
+ Bag of Wild Carrot Seet Tea:
+   price: 1 gp each
+   attunement: false
+   effect: >
+     Once quaffed, wild carrot tea triggers production of hormones that prevent
+     fertilization from occuring. Roll 1d20, on a roll of 1, fertilization still
+     occurs.
+
+ Longsword of Andurel:
+   type: Martial Melee Weapon
+   damage: 1d8 slashing
+   attunement: true
+   effect: >
+     Once owned by a sun elf paladin named Andurel Silvermoon, this sword grants
+     its user a reprieve from the darkness that consumes the world. Once attuned,
+     the Longsword of Andurel Silvermoon shines a bright light when it comes
+     under darkness or is in an area of dim light. The immediate area within a 30-foot
+     radius is brightly lit, the following 30 feet is dimly lit. It also grants a +1
+     bonus to both attack and damage rolls to melee attacks using it.
+
+     If used while coupled with an attuned Andurel Silvermoon, the Longsword of Andurel
+     gains the following effects:
+
+     * Melee weapon attacks done with the Longsword of Andurel have a +2 bonus to
+       attack and damage rolls instead of +1.
+     * Melee weapon attacks with the Longsword of Andurel deals an additional
+       1d6 radiant damage on a hit.
+     * 5 charges of daylight
+     * 3 charges of turn undead, thunderous smite or wrathful smite
+     * 1 charge of zone of truth
+
+     Once all charges are used up, roll a d20, on a roll of 5 and below, the Longsword
+     of Andurel no longer retains the benefits of being coupled with Andurel
+     Silvermoon.
+
+     Every day at dawn, roll a d20. On a roll of 17 and above, you regain 1d4 charges
+     to be distributed evenly.
+
+ Andurel Silvermoon:
+   type: Sentient Heavy Armor
+   ac: 20
+   attunement: true
+   effect: >
+     A vessel containing the soul of Andurel Silvermoon, Paladin of Corellon
+     Larethian.
+
+     Once attuned, the armor transform itself to the exact fit of the wearer’s body
+     as if it were a second skin. The wearer’s AC will be 20, and gains resistance
+     against necrotic damage.
+
+     The wearer does not have disadvantage on Dexterity (Stealth) checks.
+
+ Dagger of Berserker Frenzy:
+   type: Simple Melee Weapon
+   damage: 1d4 piercing
+   attunement: true
+   effect: >
+     Once owned by the moon elf Magenta Springsong, this cursed dagger grants its user
+     the strength of the Berserker. Once attuned, the user may use a bonus action
+     to enter a rage for 1 minute.
+
+     While raging, the user gains the following features:
+
+     _Rage_, if the user isn’t wearing heavy armor:
+      * The user has advantage on Strength checks and Strength saving throws.
+      * The user gains a +2 bonus to melee weapon attack damage rolls.
+      * The user gains resistance to bludgeoning, piercing, and slashing damage.
+      * The user can’t cast nor concentrate on spells while raging.
+
+     _Unarmored Defense_, while raging and the user is not wearing any armor,
+     the user's AC equals 10 + Dex modifier + Con modifier. The user may use a shield
+     and still gain this benefit.
+
+     _Danger Sense_, while raging, the user gains advantage on
+     Dexterity saving throws against effects that it can see, such as traps and spells.
+     To gain this benefit, the user can’t be blinded, deafened, or incapacitated.
+
+     _Reckless Attack_, while raging, the user may decide to attack recklessly.
+     Doing so gives advantage on melee attack rolls using Strength during the current
+     turn, but attack rolls against it has advantage until its next turn.
+
+     _Frenzy_, while raging, the user may expend a charge tomake a single
+     melee attack as a bonus action on each of its turns.
+
+     Rage ends if one of the following conditions are met:
+     * The user is knocked unconscious.
+     * The user’s turn ends and the user had not attacked a hostile creature since
+       its last turn.
+     * The user’s turn ends without taking damage since its last turn.
+
+     After the user of the Dagger of the Berserker's rage ends, it suffers
+     one level of exhaustion.
+

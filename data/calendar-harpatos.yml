@@ -39,6 +39,9 @@ months:
   - name: Nightal
     alt_name: The Drawing Down
     days: 31
+formats:
+  - d M Y R
+  - d M YR
 holidays:
   - name: Midwinter
     day: 31 Hammer
