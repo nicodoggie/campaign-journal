@@ -99,7 +99,7 @@
      After which, the party began reading about Shar and the tarrasque. The trail
      seemed to have led them towards Evereska.
 
- - event: The Brown Bear
+ - event: Trouble at the Brown Bear
    date: 10 Tarsahk 1489 DR
    description: >
      Edith and Hariq had arrived at Baldur's Gate. Where they had headed to Elfsong
@@ -167,7 +167,7 @@
      It was revealed that Edith was in fact, an aasimar with angelic origins.\n\n
 
 
- - event: Erys Jerend
+ - event: Erys Jerend, revived
    date: 12 Tarsahk 1489 DR
    description: >
      Edith had woken up in the Baldur's Gate temple of Chauntea after her dreams had
@@ -196,16 +196,121 @@
      Gate, and had information regarding the lost "merchandise" that Drew had overheard
      in the Brown Bear.
 
-     Apart from pertinent information regarding the trade, Bethshaba also had let slip
-     that a Zhentarim agent was travelling with Magna Mistwinter before they had all
-     parted.
+     Apart from pertinent, but incomplete information regarding the trade, Bethshaba
+     also had let slip that a Zhentarim agent was travelling with Magna Mistwinter
+     before they had all parted.
 
      On the way back to the temple of Chauntea, Edith had revealed to Hariq that she
      had this dark desire to be enveloped and showered by men's sperm.
 
 
- - date: 13 Tarsahk 1489 DR
- - date: 14 Tarsahk 1489 DR
+ - event: Edith and Hariq take a ride to Waterdeep
+   date: 13 Tarsahk 1489 DR
+   description: >
+     First thing in the morning, the party had taken some items they had ordered the
+     day before, then headed towards the ship called **The Titan of Zalazuu** in order
+     to embark on their journey to Waterdeep.
+
+     Ship Manifest:
+     * Captain: Zorah Norond, Goliath, Halruaa
+     * First Officer: Mazzad Dur, Watersoul Genasi, Halruaa
+     * Crew:
+     ** Pastrami Potato, Gnome, Amn
+     ** Bologna Potato, Gnome, Amn
+     ** Chorizo Potato, Gnome, Amn
+     * Passengers:
+     ** Lilith Chase, Aasimar, Goldenfields, Cleric
+     ** Tobee, Firesoul Genasi, Calimshan, Evoker
+     ** Korrine Rasparian, Human, Amn, Merchant
+     ** Sir Haemar Panstrom, Human, Tethyr, Knight Vigilant Paladin of Helm
+     ** Lady Jasmine Montaun, Gnome, Baldur's Gate, Noblewoman
+
+     The party had rested almost as soon as they had embarked, and had woken up just
+     in time for lunch. At lunchtime, they had met the captain Zorah Norond, a goliath
+     from Halruaa, the first officer Mazzad Dur, a very dour and silent Watersoul
+     Genasi, Sir Haemar Panstrom, a friendly Tethyrian Paladin of Helm headed to
+     Waterdeep for reassignment, Korrine Rasparian, a rich merchant's widow making
+     her way to Waterdeep to manage her deceased husband's affairs, and Lady Jasmine
+     Montaun, a gnomish noblewoman from Baldur's Gate who seemed to have a very keen
+     interest in Edith's (who had introduced herself as Lilith) wings.
+
+     After lunch, the party had gone on deck to enjoy the view, where they were
+     followed by Lady Jasmine. After a bit of small talk, she had revealed that she is
+     really Jamna Gleamsilver, a Zhentarim agent of high renown in their organization
+     and that she knows the party's true identities and purpose.
+
+     She shared with them details about the slave trade that Bethshaba left out. She
+     had also confirmed that Magna Mistwinter had succumbed to vampirism.
+
+     En route, the Titan of Zalazuu had been attacked by a wayward Merrow and its
+     Octopus minions. The party had helped battle these creatures, but the damage
+     to the ship had been reportedly extensive, and the captain mentioned that he
+     did not want to risk the voyage. They take a detour to Mintarn for repairs,
+     which is apparently fortunate for Jamna, as she had some business to deal with
+     in Mintarn. She had offered a deal--if Edith and Hariq helped her with her issues,
+     she would do everything in her power to halt the child trafficking business in
+     Baldur's Gate. They agreed.
+
+ - event: Arrival at Mintarn, Bikini Bottom Shipyard Company
+   date: 14 Tarsahk 1489 DR
+   description: >
+     Just before the ship had docked at Mintarn, Edith had met with Jamna in the
+     latter's room for a briefing on the mission the party was about to undertake.
+
+     An associate of Jamna's was interested in building a fleet of ships on Mintarn
+     and had wanted to staff it with the island's most reputable mercenary sailors.
+     However, ship production wasn't going as fast as expected. She and her associate
+     had reason to believe that the local ruler, **Tyrant Tarnheel Embuirhan** may
+     have somehow caused these delays. Jamna had thought that the Tyrant was getting
+     too out of control, and needed to be reeled in.
+
+     The mission was to find dirt on Tarnheel so that Jamna can use the information
+     as blackmail material. However, if it had seemed to the party that Tarnheel
+     was beyond control, the party must report the information to Jamna, and she would
+     judge whether it would be better to just end his life right then and there.
+
+     As the ship had finally docked, the party had followed Jamna in order to use
+     her associate's estate as a base of operations. The paldin, Sir Haemar had stayed
+     at the local branch of the Chum Bucket, one of a chain of inn/taverns own by
+     Jamna herself.
+
+     For lunch, in order to catch a glimpse of Tarnheel, Jamna had brought the party
+     to the **Selective Sailor's Saloon and Inn**, the swankiest place in Mintarn.
+     It turns out that Miss Korrine had booked a room there as soon as they had left
+     the ship, and decided unilaterally, to join the party in their revels.
+
+     As Tarnheel had entered the saloon, Edith quickly pointed out to Korrine that
+     the Tyrant had sneaked a quick glance at her, and had goaded the widow to
+     introduce herself. Being the suave creature that she is, Tarnheel had been quickly
+     taken in by Korrine, who had promptly asked her to join him in his VIP table.
+     Korrine just as promptly, agreed.
+
+     Shortly afterward, Jamna and the party depart and had headed to their base of
+     operations so they may begin. Jamna had suggested that they begin by looking into
+     the **Bikini Bottom Shipyard Company (BBSC)**, a company that she herself had a
+     stake in. They were the company commisioned to complete the ships her associate
+     had ordered, but for some unknown reasons, production had been fraught by delays.
+
+     The party had done as Jamna had suggested, and headed to the BBSC drydock, where
+     they met with its foreman, a venerable old man named **Ortmann Finnwheel**.
+     Edith had convinced him that she was Lilith Chase, daughter of a lumbermill owner
+     from **Gwynneth**, and that her father had sent her to find clients for their
+     fledgling business. She had, of course, wanted to check the risks involved. Ortmann had revealed that Alaron is their biggest supplier of
+     lumber next is Daggerford and Baldur's gate. The lumbers from Daggerford had been
+     the target of their raids while Baldur's Gate doesn't have this problems but the
+     supply is slow and expensive. Ortmann also rants about the lumbers that they received
+     from Alaron seems to rot upon its arrival in Mintarn. If Lilith can bring a shipment
+     of 1000 pcs. of lumber in the next few days, Ortmann is willing to pay 1200 GP per
+     shipment of 100 pcs.
+
+     The party also learned about the three pillars that support Mintarn's infrastracture.
+     The Mercenary Guild led by Pompin Munarkus Elhus, The Fire brigade led by Dana Crassus
+     and the Peacekeeping militia led by Julio Kasar. Also known as Mintarn's the Triumvirate.
+
+     Edith had signed up
+
+
+
  - date: 15 Tarsahk 1489 DR
  - date: 16 Tarsahk 1489 DR
  - date: 17 Tarsahk 1489 DR
