@@ -1,22 +1,74 @@
 ---
 
- - event: Hoondarrh speaks to Severin Silrajin about the Dragon Masks
-   date: 5 Elient 1488 DR
+- event: Hoondarrh speaks to Severin Silrajin about the Dragon Masks
+  date: 5 Elient 1488 DR
 
- - event: The Archdevil Zariel is promoted as Lord of Avernus by Asmodeus
-   date: 17 Elient 1488 DR
+- event: The Archdevil Zariel is promoted as Lord of Avernus by Asmodeus
+  date: 17 Elient 1488 DR
 
- - event: The succubus Azehra amongst other tanar'ri are unleashed upon Toril
-   date: The Feast of the Moon 1488 DR
+- event: The succubus Azehra amongst other tanar'ri are unleashed upon Toril
+  date: The Feast of the Moon 1488 DR
 
- - event: Asbara Jos binds the Vampire Von Strang to his blood
-   date: The Feast of the Moon 1488 DR
+- event: Asbara Jos binds the Vampire Von Strang to his blood
+  date: The Feast of the Moon 1488 DR
 
- - event: Severin Silrajin and associates take control of the Cult of the Dragon
-   date: 12 Marpenoth 1488 DR
+- event: Severin Silrajin and associates take control of the Cult of the Dragon
+  date: 12 Marpenoth 1488 DR
 
 
- - event: Something happens at Evereska
-   date: 10 Tarsahk 1489 DR
-   description: >
-     Test
+- event: Something happens at Evereska
+  date: 10 Tarsahk 1489 DR
+  description: >
+    Something happens.
+
+- event: King Obould XVIII of the Kingdom of Many-Arrows Dies
+  date: 10 Hammer 1489 DR
+  description: >
+    After a very short reign of 5 years, Obould XVIII who had continued the
+    legacy of the continued Obould Dynasty, died in an insurrection that had led to
+    another civil war in the Kingdom of Many-Arrows. His son Obould XIX, was said to
+    be half-human, groomed by the elder Obould to be his successor.
+
+    Not only was this unheard of, even considering that the line of Obould was already
+    strange in the eyes of most orcs, this was seen to be heretical by most--an insult
+    to the Blood of Gruumsh. The insurrection itself was justified by this fact, and
+    is used by the faction that had led the uprising to solidify their powerbase.
+
+    Surprisingly, many orcish tribes considered Obould XIX their rightful king and
+    had continued to fight alongside him. Comparatively though, support for Obould XIX
+    is not as large as those who refuse to be ruled by a half-human runt.
+
+- event: Order of the Gauntlet attacks a green dragon nest
+  date: 24 Tarsahk 1489 DR
+  description: >
+    Reports had led the Order of the Gauntlet to secure and destroy a Green Dragon
+    Nest found close to the Long Road that had gone through the Dessarin Valley.
+
+    The nest belonged to a younger sister of Vorgansharax, the Maimed Virulence, who
+    had taken over the town of Phlan.
+
+- event: Sacrifices from Finback, Whalebones arrive at the Well of Dragons
+  date: 2 Mirtul 1489 DR
+  description: >
+    Many of the inhabitants of the Whalebones have been magically transported to the
+    Well of Dragons. It seemed however, that there was some interference that had
+    occured, and thus, only half of the expected number were transported. Because of
+    this, and because the Sharrans had separated the children for their own purposes,
+    there had not been enough sacrifices to bypass the necessity for forming the
+    Mask of the Dragon Queen.
+
+    The Sharrans' recent failings, and the successes of Magna Mistwinter and her
+    companions had cast some doubt in the minds of some of the members of the Cult of
+    the Dragon. Some, such as the young **Iskander** who had been given the job of
+    discovering the secrets of Xonthal's Tower, secretly had wished to return to the
+    ways taught by Sammaster that the Dracoliches hold the fulfillment of a prophecy.
+
+    The members of the Reorganized Dark Followers of Shar did not care much for the
+    Cult of the Dragon, and only used them as a diversion and a tool to meet their own
+    ends. The children they took from the Whalebones was enough to be able to create
+    about 50 Bloodmoon Orbs.
+
+- event:
+  date: 14 Mirtul 1489 DR
+  description: >
+

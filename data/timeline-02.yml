@@ -1,342 +1,519 @@
 ---
 
- - event: Edith and Hariq arrive at Boareskyr Bridge
-   date: 27 Ches 1489 DR
-   description: >
-     Travel along the High Road had been slowed due to some damage to the famous
-     [Boareskyr Bridge](http://forgottenrealms.wikia.com/wiki/Boareskyr_Bridge).\n\n
+- event: Edith and Hariq arrive at Boareskyr Bridge
+  date: 27 Ches 1489 DR
+  description: >
+    Travel along the High Road had been slowed due to some damage to the famous
+    [Boareskyr Bridge](http://forgottenrealms.wikia.com/wiki/Boareskyr_Bridge).\n\n
 
-     A huge typhoon and the resulting overflow of the
-     [Winding Water](http://forgottenrealms.wikia.com/wiki/Winding_Water) had
-     collapsed a large section of the black granite bridge, and thus had been
-     rendered impassable to horses, much less carriages.\n\n
+    A huge typhoon and the resulting overflow of the
+    [Winding Water]http://forgottenrealms.wikia.com/wiki/Winding_Water) had
+    collapsed a large section of the black granite bridge, and thus had been
+    rendered impassable to horses, much less carriages.\n\n
 
-     The caravan that Edith Tarnalis, a cleric of Chauntea, and Hariq Ilqalba,
-     a nobleman-mage from the deserts of
-     [Calimshan](http://forgottenrealms.wikia.com/wiki/Calimshan) had travelled with
-     was forced to take refuge in one of the many roadside "inns" in the tent-city
-     that surrounds the bridge.\n\n
+    The caravan that Edith Tarnalis, a cleric of Chauntea, and Hariq Ilqalba,
+    a nobleman-mage from the deserts of
+    [Calimshan](http://forgottenrealms.wikia.com/wiki/Calimshan) had travelled with
+    was forced to take refuge in one of the many roadside "inns" in the tent-city
+    that surrounds the bridge.\n\n
 
- - event: Kidnapping at the Boareskyr Bridge
-   date: 27 Ches 1489 DR
-   description: >
-     Some children in the tent-city that surrounds Boareskyr Bridge had disappeared.
-     It seems that kidnapped children is, sadly, not a rare event in the area, due
-     to a very active slave market in the Serpent Hills run by the Yuan-Ti.\n\n
+- event: Kidnapping at the Boareskyr Bridge
+  date: 27 Ches 1489 DR
+  description: >
+    Some children in the tent-city that surrounds Boareskyr Bridge had disappeared.
+    It seems that kidnapped children is, sadly, not a rare event in the area, due
+    to a very active slave market in the Serpent Hills run by the Yuan-Ti.\n\n
 
-     Edith and Hariq had teamed-up to take back these children away from the slavers,
-     and had hurriedly followed their trail. What they found, however, was smashed
-     carriage and some footprints that seems to indicate that the smugglers and the
-     children have fled into the woods that led to the
-     [High Moor](http://forgottenrealms.wikia.com/wiki/High_Moor).\n\n
+    Edith and Hariq had teamed-up to take back these children away from the slavers,
+    and had hurriedly followed their trail. What they found, however, was smashed
+    carriage and some footprints that seems to indicate that the smugglers and the
+    children have fled into the woods that led to the
+    [High Moor](http://forgottenrealms.wikia.com/wiki/High_Moor).\n\n
 
-     The team had found themselved chased by a Banshee until they reached a small
-     cabin. This cabin, apparently, had also been where the smugglers and the children
-     had taken refuge from the same Banshee, who, for some reason, cannot enter.\n\n
+    The team had found themselved chased by a Banshee until they reached a small
+    cabin. This cabin, apparently, had also been where the smugglers and the children
+    had taken refuge from the same Banshee, who, for some reason, cannot enter.\n\n
 
-     Edith had discovered that the cabin was protected magically, by a consecrated
-     dagger dedicated to the dwarven god
-     [Haela Brightaxe](http://forgottenrealms.wikia.com/wiki/Haela_Brightaxe),
-     the Luckmaiden. Hariq, on the other hand, discovered a trapdoor hidden under
-     some rubble.\n\n
+    Edith had discovered that the cabin was protected magically, by a consecrated
+    dagger dedicated to the dwarven god
+    [Haela Brightaxe](http://forgottenrealms.wikia.com/wiki/Haela_Brightaxe),
+    the Luckmaiden. Hariq, on the other hand, discovered a trapdoor hidden under
+    some rubble.\n\n
 
-     Edith had, with Hariq's help, sneaked the children into the trapdoor as she
-     removed the consecrated dagger from the alter. This had removed the protection
-     of the cabin, and in effect, forced, and had successfully navigated, a battle
-     between them, the smugglers, and the banshee.\n\n
+    Edith had, with Hariq's help, sneaked the children into the trapdoor as she
+    removed the consecrated dagger from the alter. This had removed the protection
+    of the cabin, and in effect, forced, and had successfully navigated, a battle
+    between them, the smugglers, and the banshee.\n\n
 
-     As the team began taking stock of the children they had rescued, however, it
-     seems two children have disappeared. These two, one of the children had seen,
-     had wanted to explore that lay beneath the trapdoor.\n\n
+    As the team began taking stock of the children they had rescued, however, it
+    seems two children have disappeared. These two, one of the children had seen,
+    had wanted to explore that lay beneath the trapdoor.\n\n
 
-     Edith had requested that Hariq might return these children to the tent-city
-     of Boareskyr, and that she would take the two children back herself.
+    Edith had requested that Hariq might return these children to the tent-city
+    of Boareskyr, and that she would take the two children back herself.
 
-     Unfortunately
-     however, Edith had soon learned that the two children were taken by some strange
-     hooded figures in black robes into an ancient elven temple.\n\n
+    Unfortunately
+    however, Edith had soon learned that the two children were taken by some strange
+    hooded figures in black robes into an ancient elven temple.\n\n
 
-     As Edith had followed them, she had found that these figures were followers of
-     the dark goddess Shar. They had performed a strange ritual that involved opening
-     the chest cavities of the children and placing orbs into them.
- - event: Edith and Hariq Arrive at Greenest
-   date: 2 Tarsahk 1489 DR
-   description: >
-     The caravan that Edith and Hariq had travelled with had finally arrived at
-     Greenest, where Edith had been required to travel to by the Abbot of the
-     Goldenfields. They had found that Greenest, as well as most villages in the
-     Greenfields had been ravaged. A group called the Cult of the Dragon had sacked
-     the town and the surrounding villages.\n\n
+    As Edith had followed them, she had found that these figures were followers of
+    the dark goddess Shar. They had performed a strange ritual that involved opening
+    the chest cavities of the children and placing orbs into them.
+- event: Edith and Hariq Arrive at Greenest
+  date: 2 Tarsahk 1489 DR
+  description: >
+    The caravan that Edith and Hariq had travelled with had finally arrived at
+    Greenest, where Edith had been required to travel to by the Abbot of the
+    Goldenfields. They had found that Greenest, as well as most villages in the
+    Greenfields had been ravaged. A group called the Cult of the Dragon had sacked
+    the town and the surrounding villages.\n\n
 
-     The party also heard that the actions of a Magna Mistwinter had ensured that
-     Greenest had survived the raids.\n\n
+    The party also heard that the actions of a Magna Mistwinter had ensured that
+    Greenest had survived the raids.\n\n
 
-     In the shadow of night, Edith and Hariq had overheard some men talking in the
-     darkness. It was mentioned that **Hazirawn** had been put in the hands of
-     Rezmir. Edith had then captured one of the men in order to get more information,
-     but alas, was not able to get anything more substantial.
+    In the shadow of night, Edith and Hariq had overheard some men talking in the
+    darkness. It was mentioned that **Hazirawn** had been put in the hands of
+    Rezmir. Edith had then captured one of the men in order to get more information,
+    but alas, was not able to get anything more substantial.
 
- - event: Candlekeep is infiltrated by mysterious cultists
-   date: 5 Tarsahk 1489 DR
-   description: >
-     In order to glean upon some of the mysteries presented by the past few days,
-     the party had travelled to the Great Library of Candlekeep. As they arrive
-     however, they are turned away due to some incident within the confines of the
-     library.\n\n
+- event: Candlekeep is infiltrated by mysterious cultists
+  date: 5 Tarsahk 1489 DR
+  description: >
+    In order to glean upon some of the mysteries presented by the past few days,
+    the party had travelled to the Great Library of Candlekeep. As they arrive
+    however, they are turned away due to some incident within the confines of the
+    library.\n\n
 
-     After some coercing, Edith had fished out that there were some people that had
-     forced themselves into a secret portion of the library. The intruders wanted
-     to take what the Avowed scholars call the **Alterable States**. A set of
-     prophecies made by the great seer Alaundro which depend upon the fulfillment
-     of conditions at certain important temporal junctures. Knowing which conditions
-     to alter would theoretically allow anyone to select the most favorable outcome
-     predetermined by Alaundro's prophetic wisdom.\n\n
+    After some coercing, Edith had fished out that there were some people that had
+    forced themselves into a secret portion of the library. The intruders wanted
+    to take what the Avowed scholars call the **Alterable States**. A set of
+    prophecies made by the great seer Alaundro which depend upon the fulfillment
+    of conditions at certain important temporal junctures. Knowing which conditions
+    to alter would theoretically allow anyone to select the most favorable outcome
+    predetermined by Alaundro's prophetic wisdom.\n\n
 
-     They had found a female Avowed monk who had taken a vow of silence, and assumed
-     that perhaps she had the key to these states. Edith and Hariq had successfully
-     rescued her from the clutches of these intruders.\n\n
+    They had found a female Avowed monk who had taken a vow of silence, and assumed
+    that perhaps she had the key to these states. Edith and Hariq had successfully
+    rescued her from the clutches of these intruders.\n\n
 
-     After which, the party began reading about Shar and the tarrasque. The trail
-     seemed to have led them towards Evereska.
+    After which, the party began reading about Shar and the tarrasque. The trail
+    seemed to have led them towards Evereska.
 
- - event: Trouble at the Brown Bear
-   date: 10 Tarsahk 1489 DR
-   description: >
-     Edith and Hariq had arrived at Baldur's Gate. Where they had headed to Elfsong
-     Tavern which is owned by Edith's friend, Gigi Glamorous. Edith had asked her about
-     the child slave/prostitution trade in Baldur's Gate in order to check if children
-     are possibly being taken by Sharrans.\n\n
+- event: Trouble at the Brown Bear
+  date: 10 Tarsahk 1489 DR
+  description: >
+    Edith and Hariq had arrived at Baldur's Gate. Where they had headed to Elfsong
+    Tavern which is owned by Edith's friend, Gigi Glamorous. Edith had asked her about
+    the child slave/prostitution trade in Baldur's Gate in order to check if children
+    are possibly being taken by Sharrans.\n\n
 
-     Gigi told them that a tavern called the **Brown Bear** in the Outer City's Muskrat
-     district is the center of child trafficking in the area. Hariq had remembered that
-     a cousin of his from the Little Calimshan district might know about the
-     establishment.\n\n
+    Gigi told them that a tavern called the **Brown Bear** in the Outer City's Muskrat
+    district is the center of child trafficking in the area. Hariq had remembered that
+    a cousin of his from the Little Calimshan district might know about the
+    establishment.\n\n
 
-     They headed towards Little Calimshan, a small calishite settlement in the middle
-     of the Outer City, where Hariq's cousin, Roman Ilqalba had taken residence. Indeed
-     Roman was a frequent patron of the Brown Bear. After a few flattering words from
-     Edith, Roman agreed to ensure that Edith and Hariq may enter the Brown Bear as
-     customers.\n\n
+    They headed towards Little Calimshan, a small calishite settlement in the middle
+    of the Outer City, where Hariq's cousin, Roman Ilqalba had taken residence. Indeed
+    Roman was a frequent patron of the Brown Bear. After a few flattering words from
+    Edith, Roman agreed to ensure that Edith and Hariq may enter the Brown Bear as
+    customers.\n\n
 
-     Inside the tavern, the secret sex den had a stable of many children, boys and
-     girls, all aged 12 and below. In order to keep appearances Edith had offered
-     to take a 12 year old boy named Drew.\n\n
+    Inside the tavern, the secret sex den had a stable of many children, boys and
+    girls, all aged 12 and below. In order to keep appearances Edith had offered
+    to take a 12 year old boy named Drew.\n\n
 
-     Edith had then began to question Drew if he had heard of any problems with the sex
-     trade, in exchange for his freedom. He did overhear some of the slavers that there
-     were some "shipments" that had gone missing.\n\n
+    Edith had then began to question Drew if he had heard of any problems with the sex
+    trade, in exchange for his freedom. He did overhear some of the slavers that there
+    were some "shipments" that had gone missing.\n\n
 
-     Edith had made good on her promise with Drew and had staged a fire at the Brown
-     Bear, and they would act as if they had kept the establishment from burning.
-     Fortunately, their gambit had worked, and as a reward, had received Drew as
-     payment.
+    Edith had made good on her promise with Drew and had staged a fire at the Brown
+    Bear, and they would act as if they had kept the establishment from burning.
+    Fortunately, their gambit had worked, and as a reward, had received Drew as
+    payment.
 
- - event: The Cloakwood and the Orb
-   date: 11 Tarsahk 1489 DR
-   description: >
-     After rescuing Drew, Edith had led the party towards the temple of Chauntea in the
-     area. Just past midnight, they had knocked at the door of the temple waking
-     Sister Elsa.\n\n
+- event: The Cloakwood and the Orb
+  date: 11 Tarsahk 1489 DR
+  description: >
+    After rescuing Drew, Edith had led the party towards the temple of Chauntea in the
+    area. Just past midnight, they had knocked at the door of the temple waking
+    Sister Elsa.\n\n
 
-     In the morning, Edith and Hariq met High Priest Mike Shinoda while watering
-     plants. After Edith had recounted all that had befallen her until the events
-     at Greenest. Mike had then mentioned that a member of the congregation's child
-     had been missing for a day or so now, and that they had lived in a homestead
-     across the river Chionthar.\n\n
+    In the morning, Edith and Hariq met High Priest Mike Shinoda while watering
+    plants. After Edith had recounted all that had befallen her until the events
+    at Greenest. Mike had then mentioned that a member of the congregation's child
+    had been missing for a day or so now, and that they had lived in a homestead
+    across the river Chionthar.\n\n
 
-     As visited the homestead Father Mike had mentioned, the party had met the poor
-     farmer whose son had gone missing. He said that they had tracked the child to the
-     Cloakwood, but none had the courage to enter, including himself. It had been said
-     that any who enter are as good as dead. Edith and Hariq had offered to venture
-     into the wood, to at the very least, recover the child's body.\n\n
+    As visited the homestead Father Mike had mentioned, the party had met the poor
+    farmer whose son had gone missing. He said that they had tracked the child to the
+    Cloakwood, but none had the courage to enter, including himself. It had been said
+    that any who enter are as good as dead. Edith and Hariq had offered to venture
+    into the wood, to at the very least, recover the child's body.\n\n
 
-     The Cloakwood was dark and moist and full of giant spiders that had continually
-     attacked the party as they moved deep inside. Eventually, the party had reached
-     a clearing with a makeshift altar built in the center. Upon the altar was a boy.
-     Surrounding it were more children, and some men in dark robes similar to the ones
-     worn by the cultists Edith had found in the High Moor. They also had a black orb
-     of sacrifice. They were about to perform the ritual to create a Bloodmoon Orb.\n\n
+    The Cloakwood was dark and moist and full of giant spiders that had continually
+    attacked the party as they moved deep inside. Eventually, the party had reached
+    a clearing with a makeshift altar built in the center. Upon the altar was a boy.
+    Surrounding it were more children, and some men in dark robes similar to the ones
+    worn by the cultists Edith had found in the High Moor. They also had a black orb
+    of sacrifice. They were about to perform the ritual to create a Bloodmoon Orb.\n\n
 
-     Before they can react however, Edith and Hariq had dispatched the cultists, and
-     at the same time, destroy the orb of sacrifice. The destruction of the orb,
-     however had dispelled magical effects in the area, including one that had been
-     cast by Lareal and Alassra Silverhand on Edith, spells that had altered her
-     memory and her physical appearance.\n\n
+    Before they can react however, Edith and Hariq had dispatched the cultists, and
+    at the same time, destroy the orb of sacrifice. The destruction of the orb,
+    however had dispelled magical effects in the area, including one that had been
+    cast by Lareal and Alassra Silverhand on Edith, spells that had altered her
+    memory and her physical appearance.\n\n
 
-     As the magical effects had receeded, Edith suddenly sprouted wings, then fainted.
-     It was revealed that Edith was in fact, an aasimar with angelic origins.\n\n
+    As the magical effects had receeded, Edith suddenly sprouted wings, then fainted.
+    It was revealed that Edith was in fact, an aasimar with angelic origins.\n\n
+
+- event: Erys Jerend, revived
+  date: 12 Tarsahk 1489 DR
+  description: >
+    Edith had woken up in the Baldur's Gate temple of Chauntea after her dreams had
+    torrented her with with once-forgotten memories. She began to remember her past as
+    Erys Jerend, a child kidnapped and turned into an assassin by the Dark Followers
+    of Shar. Her short but prolific career had earned her the moniker, the "Darkwing".
+
+    Edith believes that they have no time to rest, however, and tells Hariq that they
+    must continue to Evereska. Father Mike, however, had said that it might not be a
+    good idea to leave Drew in Baldur's Gate where the proprietors of the Brown Bear
+    might be able to see him. They all decided then to bring Drew to the Goldenfields,
+    a walled farmland/abbey dedicated to the goddess Chauntea.
+
+    To prepare, the party headed to the docks in order to buy passage in a ship bound
+    for Waterdeep the next morning. They had also purchased new equipment for Edith,
+    since her body features had changed, most notably, that she had grown wings.
+
+    Edith had then visited the Elfsong tavern alone for some enjoyment and
+    information. She had asked Gigi more about the child trafficking trade, who
+    responded by offering to introduce Edith to one of the Zhentarim who had
+    connections to this trade. Gigi asks Edith to return sometime later at night.
+
+    After resting, the party headed back to Elfsong to meet Gigi's Zhentarim liason.
+    Standing with Gigi in her quarters, they met a mysterious woman in short leathers
+    called Bethshaba. Bethshaba was in charge of the sex trade in and around Baldur's
+    Gate, and had information regarding the lost "merchandise" that Drew had overheard
+    in the Brown Bear.
+
+    Apart from pertinent, but incomplete information regarding the trade, Bethshaba
+    also had let slip that a Zhentarim agent was travelling with Magna Mistwinter
+    before they had all parted.
+
+    On the way back to the temple of Chauntea, Edith had revealed to Hariq that she
+    had this dark desire to be enveloped and showered by men's sperm.
+
+- event: Edith and Hariq take a ride to Waterdeep
+  date: 13 Tarsahk 1489 DR
+  description: >
+    First thing in the morning, the party had taken some items they had ordered the
+    day before, then headed towards the ship called **The Titan of Zalazuu** in order
+    to embark on their journey to Waterdeep.
+
+    Ship Manifest:
+
+    * Captain: Zorah Norond, Goliath, Halruaa
+    * First Officer: Mazzad Dur, Watersoul Genasi, Halruaa
+    * Crew:
+      - Pastrami Potato, Gnome, Amn
+      - Bologna Potato, Gnome, Amn
+      - Chorizo Potato, Gnome, Amn
+    * Passengers:
+      - Lilith Chase, Aasimar, Goldenfields, Cleric
+      - Tobee, Firesoul Genasi, Calimshan, Evoker
+      - Korrine Rasparian, Human, Amn, Merchant
+      - Sir Haemar Panstrom, Human, Tethyr, Knight Vigilant Paladin of Helm
+      - Lady Jasmine Montaun, Gnome, Baldur's Gate, Noblewoman
+
+    The party had rested almost as soon as they had embarked, and had woken up just
+    in time for lunch. At lunchtime, they had met the captain Zorah Norond, a goliath
+    from Halruaa, the first officer Mazzad Dur, a very dour and silent Watersoul
+    Genasi, Sir Haemar Panstrom, a friendly Tethyrian Paladin of Helm headed to
+    Waterdeep for reassignment, Korrine Rasparian, a rich merchant's widow making
+    her way to Waterdeep to manage her deceased husband's affairs, and Lady Jasmine
+    Montaun, a gnomish noblewoman from Baldur's Gate who seemed to have a very keen
+    interest in Edith's (who had introduced herself as Lilith) wings.
+
+    After lunch, the party had gone on deck to enjoy the view, where they were
+    followed by Lady Jasmine. After a bit of small talk, she had revealed that she is
+    really Jamna Gleamsilver, a Zhentarim agent of high renown in their organization
+    and that she knows the party's true identities and purpose.
+
+    She shared with them details about the slave trade that Bethshaba left out. She
+    had also confirmed that Magna Mistwinter had succumbed to vampirism.
+
+    En route, the Titan of Zalazuu had been attacked by a wayward Merrow and its
+    Octopus minions. The party had helped battle these creatures, but the damage
+    to the ship had been reportedly extensive, and the captain mentioned that he
+    did not want to risk the voyage. They take a detour to Mintarn for repairs,
+    which is apparently fortunate for Jamna, as she had some business to deal with
+    in Mintarn. She had offered a deal--if Edith and Hariq helped her with her issues,
+    she would do everything in her power to halt the child trafficking business in
+    Baldur's Gate. They agreed.
+
+- event: Arrival at Mintarn
+  date: 14 Tarsahk 1489 DR
+  description: >
+    Just before the ship had docked at Mintarn, Edith had met with Jamna in the
+    latter's room for a briefing on the mission the party was about to undertake.
+
+    An associate of Jamna's was interested in building a fleet of ships on Mintarn
+    and had wanted to staff it with the island's most reputable mercenary sailors.
+    However, ship production wasn't going as fast as expected. She and her associate
+    had reason to believe that the local ruler, **Tyrant Tarnheel Embuirhan** may
+    have somehow caused these delays. Jamna had thought that the Tyrant was getting
+    too out of control, and needed to be reeled in.
+
+    The mission was to find dirt on Tarnheel so that Jamna can use the information
+    as blackmail material. However, if it had seemed to the party that Tarnheel
+    was beyond control, the party must report the information to Jamna, and she would
+    judge whether it would be better to just end his life right then and there.
+
+    As the ship had finally docked, the party had followed Jamna in order to use
+    her associate's estate as a base of operations. The paldin, Sir Haemar had stayed
+    at the local branch of the Chum Bucket, one of a chain of inn/taverns own by
+    Jamna herself.
+
+    For lunch, in order to catch a glimpse of Tarnheel, Jamna had brought the party
+    to the **Selective Sailor's Saloon and Inn**, the swankiest place in Mintarn.
+    It turns out that Miss Korrine had booked a room there as soon as they had left
+    the ship, and decided unilaterally, to join the party in their revels.
+
+    As Tarnheel had entered the saloon, Edith quickly pointed out to Korrine that
+    the Tyrant had sneaked a quick glance at her, and had goaded the widow to
+    introduce herself. Being the suave creature that she is, Tarnheel had been quickly
+    taken in by Korrine, who had promptly asked her to join him in his VIP table.
+    Korrine just as promptly, agreed.
+
+    Shortly afterward, Jamna and the party depart and had headed to their base of
+    operations so they may begin. Jamna had suggested that they begin by looking into
+    the **Bikini Bottom Shipyard Company (BBSC)**, a company that she herself had a
+    stake in. They were the company commisioned to complete the ships her associate
+    had ordered, but for some unknown reasons, production had been fraught by delays.
+
+- event: Bikini Bottom Shipyard Company
+  date: 14 Tarsahk 1489 DR
+  description: >
+    The party had done as Jamna had suggested, and headed to the Bikini Bottom
+    Shipyard Company drydock, where they met with its foreman, a venerable old man
+    named **Ortmann Finnwheel**. Edith had convinced him that she was Lilith Chase,
+    daughter of a lumbermill owner from the island of **Gwynneth**, and that her
+    father had sent her to find clients for their fledgling business. She had, Edith
+    lied, wanted to check the risks involved. Ortmann, perhaps out of desperation,
+    had instantly revealed their lumber supply chain, and their problems. BBSC had
+    sourced their lumber from many locales, in order to ensure a good supply chain,
+    30% of which came from continental places such as Daggerford and Baldur's Gate.
+    The largest supplier, however, was from the nearby island of Alaron which supplied
+    up to 70% of the construction material. Apart from being, and perhaps because of,
+    Alaron's closer proximity, the material costs were much lower than lumber from
+    those from the continent.
+
+    Lumber from Alaron, however, suddenly became problematic. The lumber from the
+    island had been rotting in transit for almost a month at this point. Lumber from
+    the area of Daggerford had been reportedly the target of pirate raids.
+
+    Also, while lumber supplied from Baldur's Gate did not face similar issues, the
+    sheer distance of the city meant that resupply was slow and very cost-prohibitive.
+    If Lilith, he said, could bring a shipment of 1000 pcs. of lumber in the next few
+    days, Ortmann would be willing to pay 1200 gp per shipment of 100 pcs.
+
+    Asked what the Tyrant was doing about the matter, Ortmann had responded that the
+    island's infrastracture was run by individuals who had only a vague respect for
+    the local goverment. There were three divisions mentioned: The Mercenary Guild,
+    arguably the most powerful group in the island, was led by **Pompin Munarkus
+    Elhus**. The Fire Brigade, which had the job of ensuring that the island's mostly
+    wooden structures were protected from spreading fire was led by **Dana Crassus**.
+    Finally, the Peacekeeping Militia, which had been given the task of ensuring peace
+    and order in and around Mintarn, was led by **Julio Kasar**. These three leaders
+    have been dubbed by the island's inhabitants as **Mintarn's Triumvirate**.
+
+- event: The Triumvirate and Shrooms
+  date: 14 Tarsahk 1489 DR
+  description: >
+    In order to learn more about the power structure of the island's government, Edith
+    had brought Hariq to the various group headquarters to submit applications.
+
+    The first place they had applied to was the Mercenary Guild, which was located just
+    across the Selective Sailor's Saloon and Inn. Upon arrival, they were met by
+    **Rachel Arnada**, one of Munarkus's liutenants. She apparently, was in charge
+    of new recruits, as Munarkus is a very busy individual. Rachel said, that in
+    order to join the mercenary guild, they would have to pass a test. A test
+    that would be given to them the next day.
+
+    Next, the party had visited the Fire Brigade above the wo
 
 
- - event: Erys Jerend, revived
-   date: 12 Tarsahk 1489 DR
-   description: >
-     Edith had woken up in the Baldur's Gate temple of Chauntea after her dreams had
-     torrented her with with once-forgotten memories. She began to remember her past as
-     Erys Jerend, a child kidnapped and turned into an assassin by the Dark Followers
-     of Shar. Her short but prolific career had earned her the moniker, the "Darkwing".
+- date: 15 Tarsahk 1489 DR
+- date: 16 Tarsahk 1489 DR
+- date: 17 Tarsahk 1489 DR
+- date: 18 Tarsahk 1489 DR
+- date: 19 Tarsahk 1489 DR
+- date: 22 Tarsahk 1489 DR
+- date: 23 Tarsahk 1489 DR
 
-     Edith believes that they have no time to rest, however, and tells Hariq that they
-     must continue to Evereska. Father Mike, however, had said that it might not be a
-     good idea to leave Drew in Baldur's Gate where the proprietors of the Brown Bear
-     might be able to see him. They all decided then to bring Drew to the Goldenfields,
-     a walled farmland/abbey dedicated to the goddess Chauntea.
+- event: Edith and Hariq head to the Goldenfields
+  date: 24 Tarsahk 1489 DR
+  description: >
+    Edith and Hariq, headed to the **Goldenfields**, a walled farmland and abbey
+    dedicated to the goddess Chauntea, in order to report what Edith had learned to
+    Abbott Renault McLaren.
 
-     To prepare, the party headed to the docks in order to buy passage in a ship bound
-     for Waterdeep the next morning. They had also purchased new equipment for Edith,
-     since her body features had changed, most notably, that she had grown wings.
+    Upon arrival, however, the Abbott was occupied by issues with the fruit yield
+    from an area of the Goldenfields called **The Orchards**, which, as the name
+    implies, houses the orchards of fruit trees in the walled farmland. The crux of
+    the matter was due to a contamination of the water source that led to the
+    irrigation system by some especially toxic material. This had substantially
+    affected the health of the trees and had rendered the fruits nearing ripeness,
+    contaminated and inedible.
 
-     Edith had then visited the Elfsong tavern alone for some enjoyment and
-     information. She had asked Gigi more about the child trafficking trade, who
-     responded by offering to introduce Edith to one of the Zhentarim who had
-     connections to this trade. Gigi asks Edith to return sometime later at night.
+    Even before Edith could explain her situation, and the growth of her wings, the
+    Abbott had already sent them on an errand to investigate the matter, as the toxic
+    material seemed to have come from upstream of the River Dessarin. The party took
+    some horses and had rode upriver to find the source of the pollutants. Quickly
+    enough, they had found the source to be a new mine near the edges of the Dessarin
+    Valley, which was dumping some by-product arsenic straight to the river.
 
-     After resting, the party headed back to Elfsong to meet Gigi's Zhentarim liason.
-     Standing with Gigi in her quarters, they met a mysterious woman in short leathers
-     called Bethshaba. Bethshaba was in charge of the sex trade in and around Baldur's
-     Gate, and had information regarding the lost "merchandise" that Drew had overheard
-     in the Brown Bear.
+    The party had confronted the owner of the mine, who had at first merely shrugged
+    off any question of pollutants. That was, until Edith had mentioned that they
+    were sent by the administration of the Goldenfields. Delta Remore, the proprietor
+    of the mine, had respected the importance of the Goldenfields as the breadbasket
+    of the North and had instantly taken heed. He had made a show of chastising his
+    subordinates for dumping pollutants into the river, and had promised profusely
+    that he would pay remuneration for any and all damage he had inadvertently dealt
+    to the crops. In addition, he would make a huge donation to the Church of Chauntea
+    that runs the Goldenfields as thanks for their bounty and benevolence.
 
-     Apart from pertinent, but incomplete information regarding the trade, Bethshaba
-     also had let slip that a Zhentarim agent was travelling with Magna Mistwinter
-     before they had all parted.
+    Considering the matter settled, Edith and Hariq had begun to prepare to depart
+    when a Orcish raiding party had made its presence known. The raiding party was
+    strange, however. It was very organized and militaristic, that it seemed more
+    like a professionally trained army squadron advancing tactically than a simple
+    orcish raid.
 
-     On the way back to the temple of Chauntea, Edith had revealed to Hariq that she
-     had this dark desire to be enveloped and showered by men's sperm.
+    Once the party had beaten the orcish contingent, Edith had stabilized then
+    interrogated its warchief. This group of warriors, who rode under the banner of
+    King Obould XIX, was ambushed and left for dead by a rival orcish faction. This
+    rival faction was one of the many who had supported the insurrection against King
+    Obould XVIII. According to this warchief, the civil war had been bloody,
+    threatening to undo the peace that Obould XVII had reforged just a generation
+    prior.
 
+    Edith had set the orc free, on the condition that he must tell his superiors that
+    his contingent had _not_ been attacked by a rival faction--instead by supporters
+    of the Cult of the Dragon, who had threatened to take the Northlands by force once
+    Tiamat had been released from her hellish prison.
 
- - event: Edith and Hariq take a ride to Waterdeep
-   date: 13 Tarsahk 1489 DR
-   description: >
-     First thing in the morning, the party had taken some items they had ordered the
-     day before, then headed towards the ship called **The Titan of Zalazuu** in order
-     to embark on their journey to Waterdeep.
+    Deeming the mission complete, the party had headed back to the Goldenfields,
+    taking a rest in a nearby glade.
 
-     Ship Manifest:
-     * Captain: Zorah Norond, Goliath, Halruaa
-     * First Officer: Mazzad Dur, Watersoul Genasi, Halruaa
-     * Crew:
-     ** Pastrami Potato, Gnome, Amn
-     ** Bologna Potato, Gnome, Amn
-     ** Chorizo Potato, Gnome, Amn
-     * Passengers:
-     ** Lilith Chase, Aasimar, Goldenfields, Cleric
-     ** Tobee, Firesoul Genasi, Calimshan, Evoker
-     ** Korrine Rasparian, Human, Amn, Merchant
-     ** Sir Haemar Panstrom, Human, Tethyr, Knight Vigilant Paladin of Helm
-     ** Lady Jasmine Montaun, Gnome, Baldur's Gate, Noblewoman
+- event: Edith dreams about the ancient evil
+  date: 25 Tarsahk 1489 DR
+  description: >
+    After returning to the Goldenfields, Edith and Hariq had reported their findings
+    to the Abbott. The Abbott also then gave Edith the story of how she ended up in
+    the Goldenfields.
 
-     The party had rested almost as soon as they had embarked, and had woken up just
-     in time for lunch. At lunchtime, they had met the captain Zorah Norond, a goliath
-     from Halruaa, the first officer Mazzad Dur, a very dour and silent Watersoul
-     Genasi, Sir Haemar Panstrom, a friendly Tethyrian Paladin of Helm headed to
-     Waterdeep for reassignment, Korrine Rasparian, a rich merchant's widow making
-     her way to Waterdeep to manage her deceased husband's affairs, and Lady Jasmine
-     Montaun, a gnomish noblewoman from Baldur's Gate who seemed to have a very keen
-     interest in Edith's (who had introduced herself as Lilith) wings.
+    In the afternoon, after taking Drew and Hariq on a tour around the farmlands,
+    Edith had fallen asleep in her cottage. She dreamt about a hunting lodge atop a
+    mountain, where a blackened creature with bat-like wings had erupted out of one of
+    the lodge's windows. It was then chased by a naked red-headed woman, who Edith had
+    correctly guessed was Magna Mistwinter.
 
-     After lunch, the party had gone on deck to enjoy the view, where they were
-     followed by Lady Jasmine. After a bit of small talk, she had revealed that she is
-     really Jamna Gleamsilver, a Zhentarim agent of high renown in their organization
-     and that she knows the party's true identities and purpose.
+    After some revelry, Edith and Hariq said goodbye to Drew and headed back to
+    Waterdeep.
 
-     She shared with them details about the slave trade that Bethshaba left out. She
-     had also confirmed that Magna Mistwinter had succumbed to vampirism.
+- event: Prepping for the Undermountain
+  date: 26 Tarsahk 1489 DR
+  description: >
+    The party had arrived at Waterdeep and headed straight to the Yawning Portal Inn,
+    known to many an adventurer as the entrance to the Undermountain. There, the
+    Simbul had waited for the party in disguise. She had told the party that she
+    had already arranged for a meeting between them and the current matriarch of the
+    Niral family.
 
-     En route, the Titan of Zalazuu had been attacked by a wayward Merrow and its
-     Octopus minions. The party had helped battle these creatures, but the damage
-     to the ship had been reportedly extensive, and the captain mentioned that he
-     did not want to risk the voyage. They take a detour to Mintarn for repairs,
-     which is apparently fortunate for Jamna, as she had some business to deal with
-     in Mintarn. She had offered a deal--if Edith and Hariq helped her with her issues,
-     she would do everything in her power to halt the child trafficking business in
-     Baldur's Gate. They agreed.
+    They had met Lady Trajenta Niral, who had wanted nothing to do with the Naral
+    family her family was an offshoot of.
 
- - event: Arrival at Mintarn, Bikini Bottom Shipyard Company
-   date: 14 Tarsahk 1489 DR
-   description: >
-     Just before the ship had docked at Mintarn, Edith had met with Jamna in the
-     latter's room for a briefing on the mission the party was about to undertake.
+    They had also met Monica Niral, child of the wayward Marius Naral. They have
+    discovered the Naral family had not subscribed to the orthodox Church of Shar,
+    but instead to the controversial Dark Moon heresy.
 
-     An associate of Jamna's was interested in building a fleet of ships on Mintarn
-     and had wanted to staff it with the island's most reputable mercenary sailors.
-     However, ship production wasn't going as fast as expected. She and her associate
-     had reason to believe that the local ruler, **Tyrant Tarnheel Embuirhan** may
-     have somehow caused these delays. Jamna had thought that the Tyrant was getting
-     too out of control, and needed to be reeled in.
+    They descend into the Undermountain.
 
-     The mission was to find dirt on Tarnheel so that Jamna can use the information
-     as blackmail material. However, if it had seemed to the party that Tarnheel
-     was beyond control, the party must report the information to Jamna, and she would
-     judge whether it would be better to just end his life right then and there.
+- event: First level of Undermountain
+  date: 26 Tarsahk 1489 DR
+  description: >
+    lvl 1
 
-     As the ship had finally docked, the party had followed Jamna in order to use
-     her associate's estate as a base of operations. The paldin, Sir Haemar had stayed
-     at the local branch of the Chum Bucket, one of a chain of inn/taverns own by
-     Jamna herself.
+- event: Second level of Undermountain
+  date: 27 Tarsahk 1489 DR
+  description: >
+    lvl 1
 
-     For lunch, in order to catch a glimpse of Tarnheel, Jamna had brought the party
-     to the **Selective Sailor's Saloon and Inn**, the swankiest place in Mintarn.
-     It turns out that Miss Korrine had booked a room there as soon as they had left
-     the ship, and decided unilaterally, to join the party in their revels.
+- event: Second level of Undermountain, Part 2
+  date: 28 Tarsahk 1489 DR
+  description: >
+    lvl 1
 
-     As Tarnheel had entered the saloon, Edith quickly pointed out to Korrine that
-     the Tyrant had sneaked a quick glance at her, and had goaded the widow to
-     introduce herself. Being the suave creature that she is, Tarnheel had been quickly
-     taken in by Korrine, who had promptly asked her to join him in his VIP table.
-     Korrine just as promptly, agreed.
+- event: Church of the Dark Moon
+  date: 29 Tarsahk 1489 DR
 
-     Shortly afterward, Jamna and the party depart and had headed to their base of
-     operations so they may begin. Jamna had suggested that they begin by looking into
-     the **Bikini Bottom Shipyard Company (BBSC)**, a company that she herself had a
-     stake in. They were the company commisioned to complete the ships her associate
-     had ordered, but for some unknown reasons, production had been fraught by delays.
+- event: Awakening, to Finback
+  date: 30 Tarsahk 1489 DR
+  description: >
+    lvl 1
 
-     The party had done as Jamna had suggested, and headed to the BBSC drydock, where
-     they met with its foreman, a venerable old man named **Ortmann Finnwheel**.
-     Edith had convinced him that she was Lilith Chase, daughter of a lumbermill owner
-     from **Gwynneth**, and that her father had sent her to find clients for their
-     fledgling business. She had, of course, wanted to check the risks involved. Ortmann had revealed that Alaron is their biggest supplier of
-     lumber next is Daggerford and Baldur's gate. The lumbers from Daggerford had been
-     the target of their raids while Baldur's Gate doesn't have this problems but the
-     supply is slow and expensive. Ortmann also rants about the lumbers that they received
-     from Alaron seems to rot upon its arrival in Mintarn. If Lilith can bring a shipment
-     of 1000 pcs. of lumber in the next few days, Ortmann is willing to pay 1200 GP per
-     shipment of 100 pcs.
+- event: Interrogation
+  date: Greengrass 1489 DR
+  description: >
+    lvl 1
 
-     The party also learned about the three pillars that support Mintarn's infrastracture.
-     The Mercenary Guild led by Pompin Munarkus Elhus, The Fire brigade led by Dana Crassus
-     and the Peacekeeping militia led by Julio Kasar. Also known as Mintarn's the Triumvirate.
+- event: Late night arrival at Finback
+  date: 1 Mirtul 1489 DR
+  description: >
+    lvl 1
 
-     Edith had signed up
+- event: Morning arrival at Finback
+  date: 2 Mirtul 1489 DR
+  description: >
+    lvl 1
 
+- event: Finback is taken
+  date: 2 Mirtul 1489 DR
 
+- event: Edith, lost in the High Forest
+  date: 3 Mirtul 1489 DR
 
- - date: 15 Tarsahk 1489 DR
- - date: 16 Tarsahk 1489 DR
- - date: 17 Tarsahk 1489 DR
- - date: 18 Tarsahk 1489 DR
- - date: 19 Tarsahk 1489 DR
- - date: 22 Tarsahk 1489 DR
- - date: 23 Tarsahk 1489 DR
- - date: 25 Tarsahk 1489 DR
+- event: To the Unicorn Run
+  date: 3 Mirtul 1489 DR
 
- - event: Edith and Hariq head to the Goldenfields
-   date: 24 Tarsahk 1489 DR
-   description: >
-     Edith and Hariq, with the child Drew in tow, head to the **Goldenfields**, a
-     walled farmland and abbey dedicated to the goddess Chauntea, in order to report
-     to the Abbott Renault McLaren.
+- event: Nymphema and Unica
+  date: 4 Mirtul 1489 DR
 
-     As they arrive, however, it seems that the Abbott had been busy dealing with an
-     issue with the yield of fruit taken from an area of the Goldenfields called **The
-     Orchards**. The water source seemed to have been contaminated with a significant
-     level of toxic material, which had affected the health of most of the trees. Those
-     trees whose fruits had already grown, were similarly contaminated, and thus deemed
-     unfit for consumption.
+- event: The Dead Forest
+  date: 4 Mirtul 1489 DR
 
-     Before the Abbott even lets Edith speak, she was sent to investigate the matter.
- - event: Order of the Gauntlet attacks a green dragon nest
-   date: 24 Tarsahk 1489 DR
+- event: The Grandfather Tree
+  date: 5 Mirtul 1489 DR
 
-- date: 27 Tarsahk 1489 DR
-- date: 30 Tarsahk 1489 DR
+- event: Aeroschlugpalar vs the Balor
+  date: 5 Mirtul 1489 DR
+
+- event: Edith begins training to be one with nature
+  date: 5 Mirtul 1489 DR
+
+- event: Up the Star Mounts
+  date: 10 Mirtul 1489 DR
+
+- event: Down to the Heartblood River, Saurinus
+  date: 10 Mirtul 1489 DR
+
+- event: Demonic Struggles
+  date: 11 Mirtul 1489 DR
+
+- date: 15 Mirtul 1489 DR
+
+- event: First day of Sundabar's Festival
+  date: 15 Mirtul 1489 DR
+
+- date: 16 Mirtul 1489 DR
+
+- date: 17 Mirtul 1489 DR

@@ -1,20 +1,35 @@
 ---
 
+ Chain Armor of Utter Lewdness:
+   attunement: true
+   cursed: true
+   type: medium armor
+   effect: >
+     The Chain Armor of Utter Lewdness, is a two-piece armor set which consists of a
+     tube-top and a skirt made of interlocking chains, and magically fastens itself
+     to a wearer's body, instantly attuning to their body. It grants its user an AC
+     of **16 + DEX (max 2)**. Once the user is attuned, every hour, the user must make
+     a DC 15 wisdom saving throw or be in utter sexual arousal. Any article of clothing
+     worn by the wearer, except for footwear that extends only below the knee, or
+     headgear that covers only up to the nect, will instantly disappear.
+
+     The armor can only be doffed on a successful casting of the  _remove curse_ spell.
+
  Vial of Nymph Essence:
    attunement: false
    effect: >
      After drinking a vial of Nymph Essence, the creature must make a **DC 15 wisdom
-     saving throw**. On a fail, the creature becomes sexually aroused for d12 hours. For
-     the duration of arousal, the creature is compelled to provide erotic sexual
-     pleasure to a willing sentient creature that it can see.\n\n
+     saving throw**. On a fail, the creature becomes sexually aroused for d12 hours.
+     For the duration of arousal, the creature is compelled to provide erotic sexual
+     pleasure to a sentient creature that it can see.\n\n
 
      At the beginning of every hour for the duration of the arousal, the creature may
      make a **DC 15 wisdom saving throw**. On a save, the affected creature is still
      aroused, but is not compelled to provide pleasure for that hour. On three
      successive saves, the effect of the Nymph Essence ends.\n\n
 
-     When the effect of the Nymph Essence ends, the affected creature, and one willing
-     creature it has sex with gains the benefits of a long rest, and loses one level of
+     When the effect of the Nymph Essence ends, the affected creature, and one creature
+     it has sex with gains the benefits of a long rest, and loses one level of
      exhaustion.
 
      A creature with no sexual organs will not be affected.
@@ -22,8 +37,8 @@
  Vial of Succubus/Incubus Essence:
    attunement: false
    effect: >
-     After drinking a vial of Succubus/Incubus Essence, the creature must make a **DC 15
-     wisdom saving throw**. On a fail, the creature becomes sexually aroused for d6
+     After drinking a vial of Succubus/Incubus Essence, the creature must make a **DC
+     15 wisdom saving throw**. On a fail, the creature becomes sexually aroused for d6
      hours. For the duration the creature also is compelled to provide violent,
      sado-masochistic sexual pleasure to a willing or unwilling sentient creature that
      it can see.\n\n

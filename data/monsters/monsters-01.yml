@@ -1,0 +1,62 @@
+---
+
+ - name: Aeroschulgpalar
+   size: gargantuan
+   type: ancient gold dragon archdruid, circle of the moon
+   alignment: neutral good
+   ac: 22 (natural armor)
+   hp: 28d20 + 20d8 + 252
+   speed:
+    base: 40 ft
+    fly: 80 ft
+    swim: 40 ft
+   stats:
+    str: 30
+    dex: 16
+    con: 30
+    int: 20
+    wis: 20
+    cha: 28
+   saving_throws:
+    - int
+    - wis
+   skills:
+    - arcana
+    - nature
+    - insight
+    - !perception
+    - persuasion
+    - stealth
+   dmg_immunities:
+    - fire
+   senses:
+     blindsight: 60 ft
+     darkvision: 120 ft
+   languages:
+    - common
+    - druidic
+    - draconic
+   features:
+    amphibious:
+    legendary resistance:
+    primal strike:
+    beast spells:
+    combat wild shape:
+    elemental wild shape:
+    archdruid:
+    spellcasting:
+   actions:
+    multiattack:
+    bite:
+    claw:
+    tail:
+    frightful presence:
+    fire breath:
+    weakening breath:
+    change shape:
+   legendary actions:
+    detect:
+    tail attack:
+    wing attack:
+
+
