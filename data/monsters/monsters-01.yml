@@ -1,62 +1,168 @@
 ---
 
- - name: Aeroschulgpalar
-   size: gargantuan
-   type: ancient gold dragon archdruid, circle of the moon
-   alignment: neutral good
-   ac: 22 (natural armor)
-   hp: 28d20 + 20d8 + 252
-   speed:
-    base: 40 ft
-    fly: 80 ft
-    swim: 40 ft
-   stats:
-    str: 30
-    dex: 16
-    con: 30
-    int: 20
-    wis: 20
-    cha: 28
-   saving_throws:
-    - int
-    - wis
-   skills:
-    - arcana
-    - nature
-    - insight
-    - !perception
-    - persuasion
-    - stealth
-   dmg_immunities:
-    - fire
-   senses:
-     blindsight: 60 ft
-     darkvision: 120 ft
-   languages:
-    - common
-    - druidic
-    - draconic
-   features:
-    amphibious:
-    legendary resistance:
-    primal strike:
-    beast spells:
-    combat wild shape:
-    elemental wild shape:
-    archdruid:
-    spellcasting:
-   actions:
-    multiattack:
-    bite:
-    claw:
-    tail:
-    frightful presence:
-    fire breath:
-    weakening breath:
-    change shape:
-   legendary actions:
-    detect:
-    tail attack:
-    wing attack:
+- name: Aeroschulgpalar
+  size: gargantuan
+  type: ancient gold dragon archdruid, circle of the moon
+  alignment: neutral good
+  ac: 22 (natural armor)
+  hp: 28d20 + 20d8 + 252
+  speed:
+   base: 40 ft
+   fly: 80 ft
+   swim: 40 ft
+  stats:
+   str: 30
+   dex: 16
+   con: 30
+   int: 20
+   wis: 20
+   cha: 28
+  saving_throws:
+   - int
+   - wis
+  skills:
+   - arcana
+   - nature
+   - insight
+   - !perception
+   - persuasion
+   - stealth
+  dmg_immunities:
+   - fire
+  senses:
+    blindsight: 60 ft
+    darkvision: 120 ft
+  languages:
+   - common
+   - druidic
+   - draconic
+  features:
+   amphibious:
+   legendary resistance:
+   primal strike:
+   beast spells:
+   combat wild shape:
+   elemental wild shape:
+   archdruid:
+   spellcasting:
+  actions:
+   multiattack:
+   bite:
+   claw:
+   tail:
+   frightful presence:
+   fire breath:
+   weakening breath:
+   change shape:
+  legendary actions:
+   detect:
+   tail attack:
+   wing attack:
 
+- name: Orc Hunter
+  size: medium
+  type: humanoid hunter
+  alignment: true neutral
+  ac: 14 (hide armor)
+  hp: 6d10 + 6 
+  speed:
+   base: 30 ft
+  stats:
+   str: 12
+   dex: 17
+   con: 13
+   int: 10
+   wis: 10
+   cha: 8
+  features:
+   greater favored enemy: >
+    humanoids;giants; 
+    +4 to dmg rolls with weapon attacks; 
+    adv on Wisdom (Survival) checks for tracking;
+    adv on Intelligence checks for recalling info;
+   natural explorer: 
+    forest/mountain;
+    * ignore difficult terrain;
+    * advantage on initiative rolls;
+    * 1st turn during combat, have advantage on attach rolls against creatures 
+      who have not attacked yet;
+    After 1 hour travel,
+    * difficult terrain does not slow
+    * group can't be lost except via magical means
+    * you remain alert to danger even while engaged in another activity
+    * travelling alone, move stealthily at a normal pace
+    * forage twice as much food than normal
+    * while tracking, you learn their exact number, sizes and how long ago they passed
+      through
+  fighting style:
+    archery; +4 to attack rolls with ranged weapons
+  primeval awareness:
+  hunter's prey:
+    horde breaker;
+  extra attack:
 
+- name: Orc Shaman
+  size: medium
+  type: humanoid sorcerer (wild magic) 5/cleric (war) 1
+  alignment: chaotic evil
+  ac: 14 (hide armor)
+  hp: 7d6 + 6 
+  speed:
+   base: 30 ft
+  stats:
+   str: 13
+   dex: 11
+   con: 13
+   int: 10
+   wis: 15
+   cha: 18
+  spellcasting (cleric):
+    cantrips: 
+    1st: divine favor, shield of faith
+  spellcasting (sorcerer):
+    cantrips: 
+    1st: divine favor, shield of faith
+  features:
+    war priest:
+    font of magic: 5
+    flexible casting: >
+      1st->2
+      2nd->3
+      3rd->5
+    metamagic:
+    wild magic surge:
+    tides of chaos:
+
+- name: Orc Skeleton
+  size: medium
+  type: undead
+  alignment: neutral good
+  damage vulnerabilities:
+    - bludgeoning
+  damage immunities:
+    - poison
+  codition immunities:
+    - exhaustion
+    - poisoned
+  senses:
+    - darkvision 60ft
+  ac: 15
+  hp: 7d6 + 6 
+  speed:
+   base: 30 ft
+  stats:
+   str: 14
+   dex: 16
+   con: 18
+   int: 6
+   wis: 8
+   cha: 5
+
+- name: Orc Zombie
+- name: Orc Wight
+- name: Tanarrukh
+- name: King Obould Many-Arrows IX
+- name: Ramanar Thunder-Eye
+- name: Kakashka Thunder-Eye
+- name: Aliisza
+- name:
