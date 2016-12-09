@@ -1,22 +1,5 @@
 ---
 
-- event: Harpers fail to retake the Green Dragon Mask in Kryptgarden Forest
-  date: 24 Ches 1489 DR
-  description: >
-    The Harpers have received intel that the ancient green dragon Claugiyliamatar
-    was in possession of the Green Dragon Mask, and that the Cult of the Dragon
-    were on their way to retrieve the same. This led to the death of many Harpers
-    as they had clashed with Dragon Cultist forces in the Kryptgarden Forest.
-
-    The mission ended in an utter disaster, and the mask had been taken by the
-    Cult of the Dragon leader and green dragon Wyrmspeaker, Neronvain.
-
-- event: The Cult of the Dragon Attacks the Greenfields
-  date: 27 Ches 1489 DR
-  description: >
-    The Cult of the Dragon, in their first public foray since being taken over
-    by the Calishite, Severin Silrajin. As one of the pillars
-
 - event: Magna Mistwinter arrives at Greenest
   date: 27 Ches 1489 DR
   description: >
@@ -25,6 +8,16 @@
     made her way to Greenest to lie low for a while. Despite her intentions however,
     she was thrust in the middle of a raid by the Cult of the Dragon on her
     destination. She arrived as Greenest was enveloped in flames.
+
+    Upon her arrival, she spots and saves Linan and Cuth Swift. Cuth, a member
+    of Greenest's militia, was severely wounded. His wife Linan and their children
+    were helpless without help, especially since there were raiders ravaging the city.
+    Thus, Magna had escorted them into Greenest Keep, where the townspeople were 
+    fleeing toward.
+
+    However, it seemed that the raiders had begun to surround the keep, in order to besiege
+    it. Magna and her quarry needed to carefully sneak into a secret entrance to the side of
+    the keep itself. 
 
 - event: Siege of Greenest Keep
   date: 28 Ches 1489 DR
@@ -35,3 +28,52 @@
 - event: Magna rescues Leosin Erlanthar
   date: 30 Ches 1489 DR
 
+- event: Destruction of the Dragon Eggs in the Hatchery at the Greenfields
+  date: 1 Tarsahk 1489 DR
+
+- event: Meeting Leosin Erlanthar at Berdusk 
+  date: 2 Tarsahk 1489 DR
+
+- event: Scornubel and the Order of the Gauntlet 
+  date: 3 Tarsahk 1489 DR
+
+- event: Magna and Kathri Arrives at Baldur's Gate 
+  date: 6 Tarsahk 1489 DR
+
+- event: Magna Departs for the Shadowfell and meets Mr von Strang 
+  date: 7 Tarsahk 1489 DR
+
+- event: Kathri Faces Mindflayers at the High House of Wonders 
+  date: 7 Tarsahk 1489 DR
+
+- event: Captain Kathri on the Clover rescues Magna from the Shadowfell
+  date: 8 Tarsahk 1489 DR
+
+- event: Through Iriabor on the Way to Thay
+  date: 9 Tarsahk 1489 DR
+
+- event: The Easting Canal and the Dragon Coast Trading Company
+  date: 10 Tarsahk 1489 DR
+
+- event: "On the Way to Poor Priapurl: Day 1"
+  date: 11 Tarsahk 1489 DR
+
+- event: The Poor People of Poor Priapurl
+  date: 12 Tarsahk 1489 DR
+
+- event: Down with the Dragon Coast Trading Company 
+  date: 13 Tarsahk 1489 DR
+
+- event: "Removing the Curse of Gender-Bending: Shiallia's Quest"
+  date: 14 Tarsahk 1489 DR
+
+- event: Return to Baldur's Gate
+  date: 15 Tarsahk 1489 DR
+
+- event: Riding the Clover to Waterdeep
+  date: 16 Tarsahk 1489 DR
+
+- event: "Waterdeep in a Day: Following the Cult of the Dragon"
+  date: 17 Tarsahk 1489 DR
+
+- event: 
